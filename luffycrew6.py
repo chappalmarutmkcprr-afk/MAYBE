@@ -36,7 +36,7 @@ except AttributeError:
 #   CONFIG
 # ═══════════════════════════════════════════════════════════════════════
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8920918134:AAELMD_kCRGYylompg4AeUzNmbiy9CRqJ9Q").strip()
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8920918134:AAFdzB6WZJ1_mpSU1lE7jyHlJfX8ehmhaMg").strip()
 OWNER_ID_RAW = os.getenv("OWNER_ID", "8783373485").strip()
 try:
     OWNER_ID = int(OWNER_ID_RAW)
